@@ -33,7 +33,8 @@ _: {
     # UI plugins
     ./plugins/ui/bufferline.nix
     ./plugins/ui/lualine.nix
-    ./plugins/ui/startup.nix
+    # ./plugins/ui/startup.nix
+    ./plugins/ui/startify.nix
 
     # LSP and formatting
     ./plugins/lsp/lsp.nix
