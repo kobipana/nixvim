@@ -52,14 +52,14 @@
       };
     }
 
-    {
-      mode = "n";
-      key = "<S-h>";
-      action = "<cmd>BufferLineCyclePrev<cr>";
-      options = {
-        desc = "Cycle to previous buffer";
-      };
-    }
+    # {
+    #   mode = "n";
+    #   key = "<S-h>";
+    #   action = "<cmd>BufferLineCyclePrev<cr>";
+    #   options = {
+    #     desc = "Cycle to previous buffer";
+    #   };
+    # }
 
     {
       mode = "n";

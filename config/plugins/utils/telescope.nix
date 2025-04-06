@@ -44,6 +44,12 @@
           desc = "+buffer";
         };
       };
+      "<S-h>" = {
+        action = "buffers";
+        options = {
+          desc = "+buffer";
+        };
+      };
       "<leader>ff" = {
         action = "find_files";
         options = {
