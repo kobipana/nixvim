@@ -1,7 +1,7 @@
 {
   plugins.startify = {
     enable = true;
-    settingsExample = {
+    settingsOptions = {
       custom_header = [
         ""
         "     ███╗   ██╗██╗██╗  ██╗██╗   ██╗██╗███╗   ███╗"
