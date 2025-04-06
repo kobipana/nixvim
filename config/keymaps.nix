@@ -483,10 +483,10 @@
     }
     {
       mode = "n";
-      key = "<leader><tab>[";
-      action = "<cmd>tabprevious<cr>";
+      key = "-";
+      action = "<cmd>Oil<CR>";
       options = {
-        desc = "Previous Tab";
+        desc = "Oil";
       };
     }
   ];
