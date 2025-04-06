@@ -45,7 +45,7 @@
         };
       };
       "<S-h>" = {
-        action = "buffers";
+        action = "buffers theme=ivy";
         options = {
           desc = "+buffer";
         };
