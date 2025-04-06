@@ -7,7 +7,7 @@ _: {
     ./file_types.nix
 
     # Themes
-    ./plugins/themes
+    # ./plugins/themes
 
     # Completion
     ./plugins/cmp/cmp.nix
